@@ -1,17 +1,19 @@
 <template>
     <AnimationTransition/>
     <Navbar/>
+    <Footer/>
   <router-view/>
 </template>
 
 <script>
 import AnimationTransition from "@/components/AnimationTransition.vue";
-import Navbar from "@/components/Navbar.vue"
+import Navbar from "@/components/Navbar.vue";
+import Footer from "@/components/Footer.vue"
 export default {
    Name: "App",
   components: {
     AnimationTransition,
-    Navbar
+    Navbar,Footer
   },
 };
 </script>

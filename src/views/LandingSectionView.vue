@@ -9,13 +9,13 @@
 <h2>Full Stack Developer</h2>
 <div class="container">
   <div class="row justify-content-end">
-    <div class="col-2 col-sm-6">
+    <div class="col-3 col-sm-6">
       test
     </div>
-    <div class="col-2 col-sm-6">
+    <div class="col-3 col-sm-6">
       test
     </div>
-    <div class="col-2 col-sm-6">
+    <div class="col-3 col-sm-6">
       test
     </div>
   </div>
@@ -39,7 +39,6 @@ section{
     width: 100vw;
 }
 .row{
-  padding-left: 60px;
 }
 .topImage {
   background-color: #94004a;

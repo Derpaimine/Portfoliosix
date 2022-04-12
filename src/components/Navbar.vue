@@ -120,7 +120,6 @@ width:60px;
 overflow:hidden;
 -webkit-transition:width .05s linear;
 transition:width .05s linear;
--webkit-transform:translateZ(0) scale(1,1);
 z-index:11;
 }
 
