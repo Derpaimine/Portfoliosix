@@ -1,5 +1,4 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import landingSection from '../views/LandingSectionView.vue'
 const routes = [
   {
     path: '/',

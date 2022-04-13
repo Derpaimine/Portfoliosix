@@ -109,8 +109,8 @@ overflow:visible;
 }
 
 .main-menu {
-background:#212121;
-border-right:1px solid #1e0012;
+background:#0f020a;
+border-right:1px solid #BEA5AB;
 position:absolute;
 top:0;
 bottom:0;
@@ -200,7 +200,7 @@ padding:0;
 }
 .main-menu li:hover>a,nav.main-menu li.active>a,.dropdown-menu>li>a:hover,.dropdown-menu>li>a:focus,.dropdown-menu>.active>a,.dropdown-menu>.active>a:hover,.dropdown-menu>.active>a:focus,.no-touch .dashboard-page nav.dashboard-menu ul li:hover a,.dashboard-page nav.dashboard-menu ul li.active a {
 color:#fff;
-background-color:#1e0012;
+background-color:#ba005d;
 }
 .area {
 float: left;

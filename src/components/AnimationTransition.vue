@@ -28,7 +28,7 @@ a {
   color: #42b983;
 }
 .topImage {
-  background-color: #94004a;
+  background-color: #ffffff;
   background-size: contain;
   height: 100vh;
   clip-path: polygon(100% 0, 0% 100%, 0 0);
@@ -44,7 +44,7 @@ a {
 
 
 .bottomImage {
-  background-color:#94004a;
+  background-color:#ffffff;
   background-size: contain;
   height: 100vh;
   clip-path: polygon(100% 0, 0% 100%, 100% 100%);
